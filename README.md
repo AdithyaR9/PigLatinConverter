@@ -1,7 +1,7 @@
 # PigLatinConverter
 
 Created January 2019
-Uploaded July 2021 
+Uploded July 30 2021
 
 This is a String Application that allows the user to enter a sentence that the application then converts and prints out in Pig Latin using hte following rules
 
